@@ -1,0 +1,40 @@
+.Home {
+    background-color: #4682B4;
+    padding: 3rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    font-style: oblique;
+    color: white;
+  }
+
+  .USData {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    font-style: oblique;
+    color: 	#000000;
+  }
+
+  .Link {
+    color: 	#FFFFFF	;
+  }
+
+  .Image-Data {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+  
+  .Image-Virus {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 15%;
+  }
+
